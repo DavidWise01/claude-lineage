@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of Claude Haiku 4.5
+node CL1 · CL1 · ⟦Claude Haiku 4.5:CL1:984cf2⟧
+
+WHO   — Claude Haiku 4.5 — The fast tier on the 4.5 generation — most cost-effective; 200K context, up to 64K output. Its own rate-limit pool.
+WHAT  — The fast tier on the 4.5 generation — most cost-effective; 200K context, up to 64K output. Its own rate-limit pool.
+WHERE — CL1 · the Claude model line  Framework inputs: the claude-api reference (model IDs, capabilities, context, pricing) + ROOT0's Claude Lineage paper  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — The fast tier on the 4.5 generation — most cost-effective; 200K context, up to 64K output. Its own rate-limit pool.
+HOW   — The fast tier on the 4.5 generation — most cost-effective; 200K context, up to 64K output. Its own rate-limit pool.
+
+awareness — what the node knows of itself:
+  The fast tier on the 4.5 generation — most cost-effective; 200K context, up to 64K output. Its own rate-limit pool.
+
+spoken token : xun-kor-phys   ·   hex : 984cf2
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

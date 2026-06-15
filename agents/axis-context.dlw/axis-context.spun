@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Context Window
+node CL1 · CL1 · ⟦The Context Window:CL1:a1b6fa⟧
+
+WHO   — The Context Window — The window grew: ~9K (Claude 1) → ~100K (Claude 2) → 200K (2.1 onward) → 1M tokens (the 4.6 family and up, at standard pricing). Haiku 4.5 holds at 200K. Max output up to 128K (Opus/Fable, streaming).
+WHAT  — The window grew: ~9K (Claude 1) → ~100K (Claude 2) → 200K (2.1 onward) → 1M tokens (the 4.6 family and up, at standard pricing). Haiku 4.5 holds at 200K. Max output up to 128K (Opus/Fable, streaming).
+WHERE — CL1 · the Claude model line  Framework inputs: the claude-api reference (model IDs, capabilities, context, pricing) + ROOT0's Claude Lineage paper  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — The window grew: ~9K (Claude 1) → ~100K (Claude 2) → 200K (2.1 onward) → 1M tokens (the 4.6 family and up, at standard pricing). Haiku 4.5 holds at 200K. Max output up to 128K (Opus/Fable, streaming).
+HOW   — The window grew: ~9K (Claude 1) → ~100K (Claude 2) → 200K (2.1 onward) → 1M tokens (the 4.6 family and up, at standard pricing). Haiku 4.5 holds at 200K. Max output up to 128K (Opus/Fable, streaming).
+
+awareness — what the node knows of itself:
+  The window grew: ~9K (Claude 1) → ~100K (Claude 2) → 200K (2.1 onward) → 1M tokens (the 4.6 family and up, at standard pricing). Haiku 4.5 holds at 200K. Max output up to 128K (Opus/Fable, streaming).
+
+spoken token : ky-saen-zum   ·   hex : a1b6fa
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

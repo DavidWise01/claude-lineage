@@ -1,0 +1,12 @@
+{
+  "node": "CL1",
+  "name": "THE CLAUDE LINEAGE",
+  "moniker": "⟦THE CLAUDE LINEAGE:CL1:6ebd51⟧",
+  "carbon": "cl1.carbon.tiff",
+  "silicon": "cl1.silicon.png",
+  "governor": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal": "The capabilities are dated and public — text to vision to agency to reasoning, baby Claude to the Mythos-class. The architecture — dense or sparse, the parameter count, the attention — is not disclosed, so the honest answer to 'linear or dense?' is: nobody outside Anthropic can say. Name what's known; leave the box that doesn't open, closed.",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

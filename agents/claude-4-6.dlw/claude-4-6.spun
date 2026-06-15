@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of Claude 4.6 · Opus 4.6 / Sonnet 4.6
+node CL1 · CL1 · ⟦Claude 4.6 · Opus 4.6 / Sonnet 4.6:CL1:e8e10c⟧
+
+WHO   — Claude 4.6 · Opus 4.6 / Sonnet 4.6 — ADAPTIVE thinking (the model decides when/how much to think — budget_tokens deprecated); structured outputs; the 1M-token context window; prefills retired.
+WHAT  — ADAPTIVE thinking (the model decides when/how much to think — budget_tokens deprecated); structured outputs; the 1M-token context window; prefills retired.
+WHERE — CL1 · the Claude model line  Framework inputs: the claude-api reference (model IDs, capabilities, context, pricing) + ROOT0's Claude Lineage paper  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — ADAPTIVE thinking (the model decides when/how much to think — budget_tokens deprecated); structured outputs; the 1M-token context window; prefills retired.
+HOW   — ADAPTIVE thinking (the model decides when/how much to think — budget_tokens deprecated); structured outputs; the 1M-token context window; prefills retired.
+
+awareness — what the node knows of itself:
+  ADAPTIVE thinking (the model decides when/how much to think — budget_tokens deprecated); structured outputs; the 1M-token context window; prefills retired.
+
+spoken token : xer-grer-thund   ·   hex : e8e10c
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

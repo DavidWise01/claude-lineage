@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of Claude 3.7 Sonnet
+node CL1 · CL1 · ⟦Claude 3.7 Sonnet:CL1:56545c⟧
+
+WHO   — Claude 3.7 Sonnet — The reasoning turn: EXTENDED THINKING (hybrid reasoning) — the model can think before it answers, with a visible budget.
+WHAT  — The reasoning turn: EXTENDED THINKING (hybrid reasoning) — the model can think before it answers, with a visible budget.
+WHERE — CL1 · the Claude model line  Framework inputs: the claude-api reference (model IDs, capabilities, context, pricing) + ROOT0's Claude Lineage paper  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — The reasoning turn: EXTENDED THINKING (hybrid reasoning) — the model can think before it answers, with a visible budget.
+HOW   — The reasoning turn: EXTENDED THINKING (hybrid reasoning) — the model can think before it answers, with a visible budget.
+
+awareness — what the node knows of itself:
+  The reasoning turn: EXTENDED THINKING (hybrid reasoning) — the model can think before it answers, with a visible budget.
+
+spoken token : nus-xax-kis   ·   hex : 56545c
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0
