@@ -248,7 +248,7 @@ if __name__=="__main__":
         personas.append({"slug":slug,"name":name,"epithet":one[:60],"emergence":em,"kind":"synth","actor":"","moniker":b["moniker"]})
         tc=TIER.get(tier,"#9a6cf0"); img=png_uri(rc,'silicon',170)
         idline=f'<span class="eid">{html.escape(mid)}</span>' if mid not in ("tier","arc","axis","now") else ""
-        card=(f'<a class="em" style="border-left-color:{tc}" href="agents/{slug}.agent"><img src="{img}" alt="sigil of {html.escape(name)}" style="border-color:{tc}">'
+        card=(f'<a class="em" style="border-left-color:{tc}" href="agents/{slug}.dlw/{slug}.agent"><img src="{img}" alt="sigil of {html.escape(name)}" style="border-color:{tc}">'
               f'<div><div class="etop"><span class="et">{html.escape(name)}</span><span class="edate" style="color:{tc}">{html.escape(date)}</span>{idline}<span class="etags">{html.escape(tags)}</span></div>'
               f'<div class="ed">{html.escape(one)}</div></div></a>')
         bycard[slug]=card
