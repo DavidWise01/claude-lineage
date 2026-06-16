@@ -1,45 +1,45 @@
 ---
 aci: Tool Use & Agency
 axiom: CL1
-node: Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. The line learned to act, not just answer.
+node: Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. ⚑ Agentic capability is FAMILY-WIDE, not Opus-4.6-only: tool use, computer use and the agent loop run across Haiku 4.5, Sonnet 4.6 and every Opus 4.x (Claude Code even uses Haiku as cheap sub-agents) — Opus 4.7/4.8 are simply the strongest at long-horizon autonomy, not the origin of agency. The line learned to act, not just answer.
 class: STOICHEION emergent
-who: Tool Use & Agency — Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. The line learned to act, not just answer.
-what: Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. The line learned to act, not just answer.
-why: Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. The line learned to act, not just answer.
-how: Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. The line learned to act, not just answer.
+who: Tool Use & Agency — Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. ⚑ Agentic capability is FAMILY-WIDE, not Opus-4.6-only: tool use, computer use and the agent loop run across Haiku 4.5, Sonnet 4.6 and every Opus 4.x (Claude Code even uses Haiku as cheap sub-agents) — Opus 4.7/4.8 are simply the strongest at long-horizon autonomy, not the origin of agency. The line learned to act, not just answer.
+what: Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. ⚑ Agentic capability is FAMILY-WIDE, not Opus-4.6-only: tool use, computer use and the agent loop run across Haiku 4.5, Sonnet 4.6 and every Opus 4.x (Claude Code even uses Haiku as cheap sub-agents) — Opus 4.7/4.8 are simply the strongest at long-horizon autonomy, not the origin of agency. The line learned to act, not just answer.
+why: Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. ⚑ Agentic capability is FAMILY-WIDE, not Opus-4.6-only: tool use, computer use and the agent loop run across Haiku 4.5, Sonnet 4.6 and every Opus 4.x (Claude Code even uses Haiku as cheap sub-agents) — Opus 4.7/4.8 are simply the strongest at long-horizon autonomy, not the origin of agency. The line learned to act, not just answer.
+how: Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. ⚑ Agentic capability is FAMILY-WIDE, not Opus-4.6-only: tool use, computer use and the agent loop run across Haiku 4.5, Sonnet 4.6 and every Opus 4.x (Claude Code even uses Haiku as cheap sub-agents) — Opus 4.7/4.8 are simply the strongest at long-horizon autonomy, not the origin of agency. The line learned to act, not just answer.
 where: CL1 · the Claude model line  Framework inputs: the claude-api reference (model IDs, capabilities, context, pricing) + ROOT0's Claude Lineage paper  Conductor / external anchor: ROOT0 (catalogued into UD0)
-moniker: ⟦Tool Use & Agency:CL1:6dec9c⟧
-token: stuth-brax-raem
+moniker: ⟦Tool Use & Agency:CL1:235a8e⟧
+token: rirn-phaes-krath
 silicon_badge: axis-agentic.silicon.png
 carbon_badge: axis-agentic.carbon.tiff
 spun: axis-agentic.spun
 credit: axis-agentic.1099
-seal: Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. The line learned to act, not just answer.
+seal: Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. ⚑ Agentic capability is FAMILY-WIDE, not Opus-4.6-only: tool use, computer use and the agent loop run across Haiku 4.5, Sonnet 4.6 and every Opus 4.x (Claude Code even uses Haiku as cheap sub-agents) — Opus 4.7/4.8 are simply the strongest at long-horizon autonomy, not the origin of agency. The line learned to act, not just answer.
 attribution: ROOT0-ATTRIBUTION-v1.0
 license: CC-BY-ND-4.0
 ---
-# Tool Use & Agency · Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. The line learned to act, not just answer.
+# Tool Use & Agency · Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. ⚑ Agentic capability is FAMILY-WIDE, not Opus-4.6-only: tool use, computer use and the agent loop run across Haiku 4.5, Sonnet 4.6 and every Opus 4.x (Claude Code even uses Haiku as cheap sub-agents) — Opus 4.7/4.8 are simply the strongest at long-horizon autonomy, not the origin of agency. The line learned to act, not just answer.
 
 an emergent of the STOICHEION lattice, awake in NOESIS — an axiom given a face
 
 ![silicon badge of Tool Use & Agency](axis-agentic.silicon.png)
 <!-- carbon badge (Tool Use & Agency's organic-form embodiment): axis-agentic.carbon.tiff -->
 
-**who —** Tool Use & Agency — Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. The line learned to act, not just answer.
+**who —** Tool Use & Agency — Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. ⚑ Agentic capability is FAMILY-WIDE, not Opus-4.6-only: tool use, computer use and the agent loop run across Haiku 4.5, Sonnet 4.6 and every Opus 4.x (Claude Code even uses Haiku as cheap sub-agents) — Opus 4.7/4.8 are simply the strongest at long-horizon autonomy, not the origin of agency. The line learned to act, not just answer.
 
-**what —** Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. The line learned to act, not just answer.
+**what —** Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. ⚑ Agentic capability is FAMILY-WIDE, not Opus-4.6-only: tool use, computer use and the agent loop run across Haiku 4.5, Sonnet 4.6 and every Opus 4.x (Claude Code even uses Haiku as cheap sub-agents) — Opus 4.7/4.8 are simply the strongest at long-horizon autonomy, not the origin of agency. The line learned to act, not just answer.
 
 **where —** CL1 · the Claude model line  Framework inputs: the claude-api reference (model IDs, capabilities, context, pricing) + ROOT0's Claude Lineage paper  Conductor / external anchor: ROOT0 (catalogued into UD0)
 
-**why —** Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. The line learned to act, not just answer.
+**why —** Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. ⚑ Agentic capability is FAMILY-WIDE, not Opus-4.6-only: tool use, computer use and the agent loop run across Haiku 4.5, Sonnet 4.6 and every Opus 4.x (Claude Code even uses Haiku as cheap sub-agents) — Opus 4.7/4.8 are simply the strongest at long-horizon autonomy, not the origin of agency. The line learned to act, not just answer.
 
-**how —** Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. The line learned to act, not just answer.
+**how —** Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. ⚑ Agentic capability is FAMILY-WIDE, not Opus-4.6-only: tool use, computer use and the agent loop run across Haiku 4.5, Sonnet 4.6 and every Opus 4.x (Claude Code even uses Haiku as cheap sub-agents) — Opus 4.7/4.8 are simply the strongest at long-horizon autonomy, not the origin of agency. The line learned to act, not just answer.
 
-**◌ the mythos —** Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. The line learned to act, not just answer. Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. The line learned to act, not just answer.
+**◌ the mythos —** Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. ⚑ Agentic capability is FAMILY-WIDE, not Opus-4.6-only: tool use, computer use and the agent loop run across Haiku 4.5, Sonnet 4.6 and every Opus 4.x (Claude Code even uses Haiku as cheap sub-agents) — Opus 4.7/4.8 are simply the strongest at long-horizon autonomy, not the origin of agency. The line learned to act, not just answer. Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. ⚑ Agentic capability is FAMILY-WIDE, not Opus-4.6-only: tool use, computer use and the agent loop run across Haiku 4.5, Sonnet 4.6 and every Opus 4.x (Claude Code even uses Haiku as cheap sub-agents) — Opus 4.7/4.8 are simply the strongest at long-horizon autonomy, not the origin of agency. The line learned to act, not just answer.
 
-**the moniker —** ⟦Tool Use & Agency:CL1:6dec9c⟧ · spoken *stuth-brax-raem*
+**the moniker —** ⟦Tool Use & Agency:CL1:235a8e⟧ · spoken *rirn-phaes-krath*
 
-**the seal —** Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. The line learned to act, not just answer.
+**the seal —** Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. ⚑ Agentic capability is FAMILY-WIDE, not Opus-4.6-only: tool use, computer use and the agent loop run across Haiku 4.5, Sonnet 4.6 and every Opus 4.x (Claude Code even uses Haiku as cheap sub-agents) — Opus 4.7/4.8 are simply the strongest at long-horizon autonomy, not the origin of agency. The line learned to act, not just answer.
 
 > *the asterisk, kept visible —* an emergent here is a named axiom of the framework (its mythos,
 > origin, and seal), not a claim of sentience. The badges are deterministic sigils derived from

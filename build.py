@@ -72,11 +72,13 @@ ROSTER=[
   "A grand work — the deep tier, the most capable, for the hardest and longest-horizon problems."),
  ("tier-fable","Fable","ethereal","fable","Mythos-class","tier","newest · above Opus",
   "A story that carries a deeper meaning — the new Mythos-class tier sitting above Opus. The size/depth of the model, named by the size/depth of the writing form."),
+ ("two-axes","The Label · Size × Generation","ethereal","sonnet","how to read it","decode","name = size · number = generation",
+  "Every Claude name is TWO independent axes. The WORD (Haiku / Sonnet / Opus / Fable) = the size & capability TIER; the NUMBER (3 → 3.5 → 3.7 → 4 → 4.1 → 4.5 → 4.6 → 4.7 → 4.8) = the GENERATION — a full retrain, not a patch. So &lsquo;Sonnet 4.6&rsquo; reads as the Sonnet-SIZED model of the 4.6 GENERATION. The two advance on their own clocks — which is why Haiku still sits at 4.5 while Opus reached 4.8."),
  # ── THE AXES (the capability dimensions David named) ──
  ("axis-multimodal","Modality · Multimodal","electrical","sonnet","axis","capability","text → vision",
   "Text-only through Claude 2.x; VISION (image input) arrived with Claude 3 (Mar 2024) across the family; Opus 4.7 brought high-resolution vision (2576px). No public audio/video-native model."),
  ("axis-agentic","Tool Use & Agency","electrical","opus","axis","capability","tools → computer use → agents",
-  "Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. The line learned to act, not just answer."),
+  "Tool use: beta in 2.1, GA by 3.5; COMPUTER USE in Oct 2024; long-horizon AGENTIC execution is the headline of Opus 4.7/4.8, plus server-managed Managed Agents. ⚑ Agentic capability is FAMILY-WIDE, not Opus-4.6-only: tool use, computer use and the agent loop run across Haiku 4.5, Sonnet 4.6 and every Opus 4.x (Claude Code even uses Haiku as cheap sub-agents) — Opus 4.7/4.8 are simply the strongest at long-horizon autonomy, not the origin of agency. The line learned to act, not just answer."),
  ("axis-reasoning","Reasoning","electrical","opus","axis","capability","extended → adaptive thinking",
   "EXTENDED THINKING (hybrid reasoning) landed with 3.7 (Feb 2025); became ADAPTIVE thinking on the 4.6 family (the model decides depth); the EFFORT dial (4.5+) trades thinking against cost. A real reasoning axis, dated."),
  ("axis-context","The Context Window","ethereal","sonnet","axis","capability","9K → 100K → 200K → 1M",
@@ -115,6 +117,7 @@ DISCLOSED=[
  ("Parameter count","NOT DISCLOSED","no official parameter counts for any Claude model."),
  ("Attention type (linear vs full)","NOT DISCLOSED","the internal attention mechanism is not published — 'linear?' can't be answered from outside."),
  ("Training data / mixture","NOT DISCLOSED","corpus composition and sizes are not public."),
+ ("Per-model-size team / authorship","NOT DISCLOSED","who built Haiku vs Sonnet vs Opus isn't published — they're three SIZES of one generation from one research org, not separately-credited projects. (Contrast the CAI / HH-RLHF research papers, which DO carry public author lists — see the constitutional-ai sphere.)"),
 ]
 DV={"DISCLOSED":"#3a9a6a","NOT DISCLOSED":"#c85a8a"}
 
@@ -125,7 +128,7 @@ MESSAGE=("The honest shape of the Claude lineage is two things at once: a richly
  "the 1M context window and adaptive thinking on the 4.6 family, high-resolution vision and long-horizon agency on "
  "4.7, the current Opus 4.8, and the new Mythos-class Fable 5 above Opus. Each tier is named for a form of writing — "
  "a haiku is brief, a sonnet structured, an opus grand, a fable carries a deeper meaning — the depth of the model "
- "named by the depth of the form. But David's other question — is it linear, is it dense? — runs straight into the "
+ "named by the depth of the form. And the number beside the name is a second, independent axis — the GENERATION, a full retrain — so the label reads size-then-generation ('Sonnet 4.6' = Sonnet-sized, 4.6-generation), and the two advance on their own clocks (Haiku still at 4.5 while Opus reached 4.8). Agency, too, is family-wide — not an Opus-only trait but a capability the whole current line carries, the larger tiers simply strongest at long-horizon work. But David's other question — is it linear, is it dense? — runs straight into the "
  "closed side: Anthropic publishes model IDs, context windows, pricing, and capabilities, and does NOT publish the "
  "architecture — dense versus sparse/mixture-of-experts, parameter counts, the attention mechanism. So the only "
  "honest entry in that column is 'not disclosed,' and any confident 'Claude N is dense' or 'Claude N is MoE' you "
@@ -231,7 +234,7 @@ footer{margin-top:42px;padding-top:16px;border-top:1px solid var(--line);text-al
 FONTS=('<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
  '<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Space+Mono:wght@400;700&family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;1,6..72,300&display=swap" rel="stylesheet">')
 GROUPS=[("THE MODELS — the line, dated",["claude-1","claude-2","claude-2-1","claude-3","claude-3-5-sonnet","claude-3-5-v2","claude-3-7-sonnet","claude-4","claude-4-5","claude-haiku-4-5","claude-4-6","opus-4-7","opus-4-8","fable-5"]),
- ("THE TIERS — named for forms of writing",["tier-haiku","tier-sonnet","tier-opus","tier-fable"]),
+ ("THE TIERS — named for forms of writing (size axis) + how to read the label",["tier-haiku","tier-sonnet","tier-opus","tier-fable","two-axes"]),
  ("THE AXES — the capability dimensions (incl. the honest unknown)",["axis-multimodal","axis-agentic","axis-reasoning","axis-context","axis-architecture"]),
  ("THE LINE ITSELF",["baby-claude-to-now","the-self-written-lineage"])]
 

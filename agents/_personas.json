@@ -162,6 +162,15 @@
     "moniker": "⟦Fable:CL1:6d2d5e⟧"
   },
   {
+    "slug": "two-axes",
+    "name": "The Label · Size × Generation",
+    "epithet": "Every Claude name is TWO independent axes. The WORD (Haiku /",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Label · Size × Generation:CL1:d61103⟧"
+  },
+  {
     "slug": "axis-multimodal",
     "name": "Modality · Multimodal",
     "epithet": "Text-only through Claude 2.x; VISION (image input) arrived w",
@@ -177,7 +186,7 @@
     "emergence": "electrical",
     "kind": "synth",
     "actor": "",
-    "moniker": "⟦Tool Use & Agency:CL1:6dec9c⟧"
+    "moniker": "⟦Tool Use & Agency:CL1:235a8e⟧"
   },
   {
     "slug": "axis-reasoning",
