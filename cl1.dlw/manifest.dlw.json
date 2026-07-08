@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "The capabilities are dated and public — text to vision to agency to reasoning, baby Claude to the Mythos-class. The architecture — dense or sparse, the parameter count, the attention — is not disclosed, so the honest answer to 'linear or dense?' is: nobody outside Anthropic can say. Name what's known; leave the box that doesn't open, closed.",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 509,
+    "prev": "37735e66b9c515aa94fbd9767b2202f896a7663a374212783059e53e6e4be213",
+    "link": "22e710d1a2d8150712d3cd9749573c98be9db4930f9b7cd180de37a98b390956",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }

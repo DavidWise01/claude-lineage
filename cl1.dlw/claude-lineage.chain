@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 509
+slug  : claude-lineage
+seal  : 2ae6b8d7fb73ad5fa25151218964d140a9b91ba82510514d88e651742e44b02e
+prev  : 37735e66b9c515aa94fbd9767b2202f896a7663a374212783059e53e6e4be213
+link  : 22e710d1a2d8150712d3cd9749573c98be9db4930f9b7cd180de37a98b390956
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
